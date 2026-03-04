@@ -1,0 +1,36 @@
+# Build outputs
+bin/
+obj/
+
+# User/IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test/result artifacts
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-generated outputs
+png_out/
+Image_In/
+Image_Out/
+Base/
+GameSource/
+Farc_Out/
+ExportedFiles/
+GTI-ModTools.WPF.config.json

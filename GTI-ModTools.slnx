@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="GTI-ModTools.FARC.CLI/GTI-ModTools.FARC.CLI.csproj" />
+  <Project Path="GTI-ModTools.Images.CLI.Tests/GTI-ModTools.Images.CLI.Tests.csproj" />
+  <Project Path="GTI-ModTools.Images.CLI/GTI-ModTools.Images.CLI.csproj" />
+  <Project Path="GTI-ModTools.Images.Tests/GTI-ModTools.Images.Tests.csproj" />
+  <Project Path="GTI-ModTools.Types.Databases.Tests/GTI-ModTools.Types.Databases.Tests.csproj" />
+  <Project Path="GTI-ModTools.Types.Databases/GTI-ModTools.Types.Databases.csproj" />
+  <Project Path="GTI-ModTools.Types.FARC.Tests/GTI-ModTools.Types.FARC.Tests.csproj" />
+  <Project Path="GTI-ModTools.Types.FARC/GTI-ModTools.Types.FARC.csproj" />
+  <Project Path="GTI-ModTools.Types.Images/GTI-ModTools.Types.Images.csproj" />
+  <Project Path="GTI-ModTools.WPF/GTI-ModTools.WPF.csproj" />
+  <Project Path="GTI-ModTools.WPF.Tests/GTI-ModTools.WPF.Tests.csproj" />
+</Solution>
